@@ -1,0 +1,11 @@
+sree,kanth,reddy,kadapa,kamalapuram
+nageswara,rao,sir,automation,tool
+hyderabad,kphb,from,guntur,ap
+abdul,kalam,sir,india,president
+rahul,gandhi,opponent,party,leader
+mother,theresa,humanity,madam,helped
+sachin,tendulkar,father,of,cricket
+steve,jobs,apple,production,america
+software,testing,tool,automation,enginner
+manual,automation,ui,api,db
+hyd,,sree,,kanth

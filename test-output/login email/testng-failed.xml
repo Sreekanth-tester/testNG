@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [login email]">
+  <test thread-count="5" name="Test1(failed)">
+    <parameter name="password" value="Srikanthdevella@2020"/>
+    <parameter name="userid" value="srikanthdevella@2020@gmail.com"/>
+    <parameter name="url" value="https://www.gmail.com"/>
+    <classes>
+      <class name="test.EmailTestClass">
+        <methods>
+          <include name="noMails"/>
+          <include name="login"/>
+          <include name="launchSite"/>
+        </methods>
+      </class> <!-- test.EmailTestClass -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [login email] -->
